@@ -1,0 +1,401 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Sports"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Motivational"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Cars"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Movies"
+            },
+            {
+                "name": "Abstract"
+            },
+            {
+                "name": "Trill"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Art"
+            },
+            {
+                "name": "Gaming"
+            },
+            {
+                "name": "Misc"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/120842_adapted_720x1280.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/120842_adapted_720x1280.jpg",
+				"name": "Winter Trees",
+                "category": "Landscape"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Malaysia_adapted_1080x1920.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Malaysia_adapted_1080x1920.jpg",
+				"name": "Malaysia",
+                "category": "City"
+			},
+            {
+				"author": "Rahul",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Nature-3c0b02b6-7753-4e9d-a76b-15829c47e1a2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Nature-3c0b02b6-7753-4e9d-a76b-15829c47e1a2.jpg",
+				"name": "Mountain",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rahul",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/120929_adapted_720x1280.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/120929_adapted_720x1280.jpg",
+				"name": "Raindrops",
+                "category": "Misc"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Black-7e14f554-7df4-4314-a26b-26150ac80b96.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Black-7e14f554-7df4-4314-a26b-26150ac80b96.jpg",
+				"name": "Starry Night",
+                "category": "Landscape"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Elegant.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Elegant.jpg",
+				"name": "White BMW",
+                "category": "Cars, Art"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Ferrari-beac8945-9dc3-461f-90f5-e256cf27bd25.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Ferrari-beac8945-9dc3-461f-90f5-e256cf27bd25.jpg",
+				"name": "Ferrari",
+                "category": "Cars"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Mountain_adapted_720x1280.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Mountain_adapted_720x1280.jpg",
+				"name": "Waterfalls",
+                "category": "Landscape"
+			},
+            {
+				"author": "Alan P",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/01.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/01.png",
+				"name": "Abstract 1",
+                "category": "Abstract"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Games/33.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Games/33.jpg",
+				"name": "Soldier",
+                "category": "Gaming"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(1).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(1).png",
+				"name": "Sun",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Animal/fire_tiger-6e6ab82b-44b3-49fa-ad0d-1c4f475cb5c0.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Animal/fire_tiger-6e6ab82b-44b3-49fa-ad0d-1c4f475cb5c0.jpg",
+				"name": "Fire Tiger",
+                "category": "Animal"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Imagination-5235389e-2a72-4d7f-9bb5-0f0e011bf0e5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Imagination-5235389e-2a72-4d7f-9bb5-0f0e011bf0e5.jpg",
+				"name": "Imagination",
+                "category": "Art"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/1_5080069789947265043.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/1_5080069789947265043.jpg",
+				"name": "Deadpool",
+                "category": "Movies"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/1_5091709434787266589.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/1_5091709434787266589.jpg",
+				"name": "Avengers",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/4_5944780997374511179.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/4_5944780997374511179.jpg",
+				"name": "Avengers & Guardians",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/4_5974106531560424516.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/4_5974106531560424516.jpg",
+				"name": "Justice League",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/AVENGERS_-_animated-c332a35d-8941-4833-a7dc-c3346364b179.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/AVENGERS_-_animated-c332a35d-8941-4833-a7dc-c3346364b179.jpg",
+				"name": "Cute Avengers",
+                "category": "Movies"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Black_Panther-68feefc9-3e2f-4f37-a44b-a9f2a890d5b2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Black_Panther-68feefc9-3e2f-4f37-a44b-a9f2a890d5b2.jpg",
+				"name": "Black Panther",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Black_panther-aff7589b-167b-40a8-baed-76116379ac2d.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Black_panther-aff7589b-167b-40a8-baed-76116379ac2d.jpg",
+				"name": "Black Panther",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Thanos-.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Thanos-.jpg",
+				"name": "Thanos",
+                "category": "Movies"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Rampage-5db1705d-1725-4a88-ba19-2d847bbbb91c.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Rampage-5db1705d-1725-4a88-ba19-2d847bbbb91c.jpg",
+				"name": "Rampage",
+                "category": "Movie"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://github.com/Rookie198/Wallpapers/blob/master/Movies/Infinity_war-5bd5c84d-7e54-4ba3-b9ff-bffd786e2e30.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Movies/Infinity_war-5bd5c84d-7e54-4ba3-b9ff-bffd786e2e30.jpg",
+				"name": "Captain America",
+                "category": "Movies"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Spiderman-52b96d5c-d4e8-4c89-85ec-e136b6b4b41b.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/Spiderman-52b96d5c-d4e8-4c89-85ec-e136b6b4b41b.jpg",
+				"name": "Spiderman",
+                "category": "Movies"
+			},
+            {
+				"author": "Venom",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/venom-c87bbf8a-21f6-4950-89ed-c1b04b7662bc.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Movies/venom-c87bbf8a-21f6-4950-89ed-c1b04b7662bc.jpg",
+				"name": "Venom",
+                "category": "Movies"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Games/god_of_war-a3e2d592-9222-48ce-803d-1f28220ef6a0.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Games/god_of_war-a3e2d592-9222-48ce-803d-1f28220ef6a0.jpg",
+				"name": "God of War",
+                "category": "Gaming"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(2).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(2).png",
+				"name": "Earth",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(3).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(3).png",
+				"name": "Jupiter",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(4).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(4).png",
+				"name": "Neptune",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(5).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(5).png",
+				"name": "Pluto",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(6).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(6).png",
+				"name": "Saturn",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(7).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(7).png",
+				"name": "Sun",
+                "category": "Space"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill%201.jpg",
+				"name": "Trill Drake",
+                "category": "Trill"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill2.jpg",
+				"name": "Drake Art",
+                "category": "Trill"
+			},
+            {
+				"author": "Gary V",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational1.png",
+				"name": "Patience",
+                "category": "Motivational"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational%201.jpg",
+				"name": "Worth it",
+                "category": "Motivational"
+			},
+            {
+				"author": "Gary V",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational2.jpeg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational2.jpeg",
+				"name": "Mountain 981",
+                "category": "Mountain"
+			},
+            {
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/wallpaper_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/wallpaper_12.jpg",
+				"name": "Yacht",
+                "category": "Beach"
+			},
+			{
+                "author":"Felicia Lee",
+                "url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill%204.jpg",
+                "thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill%204.jpg",
+                "name": "Nike Trill",
+                "category": "Trill"
+            },
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Trill/Trill5.png",
+				"name": "Crown",
+                "category": "Trill"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/wallpaper_10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Abstract/wallpaper_10.jpg",
+				"name": "Sunset",
+                "category": "Landscape"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Kobe.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Kobe.jpg",
+				"name": "Kobe Dunk",
+                "category": "Sports"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Steph2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Steph2.jpg",
+				"name": "KD & Steph Curry",
+                "category": "Sports"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Art3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Art3.jpg",
+				"name": "Artsy",
+                "category": "Art"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Jordan2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Jordan2.png",
+				"name": "Jordan",
+                "category": "Sports"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Lebron1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Lebron1.png",
+				"name": "King James",
+                "category": "Sports"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Beach%202.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Beach%202.jpg",
+				"name": "Miami beach",
+                "category": "Beach"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Stephen%20Curry1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/Stephen%20Curry1.jpg",
+				"name": "Stephen Curry",
+                "category": "Sports"
+			},
+			{
+				"author": "WD",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/jordans.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Sports/jordans.png",
+				"name": "Air Jordans 1",
+                "category": "Sports"
+			},
+			{
+				"author": "Gary V",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational2.jpeg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Motivational/Motivational2.jpeg",
+				"name": "Do things you love",
+                "category": "Motivational"
+			}
+		]		
+}
